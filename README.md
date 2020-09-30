@@ -13,7 +13,7 @@ As a home server, the Blob <br>is the on-board computer for the intelligent buil
   <img src="https://raw.githubusercontent.com/fastender/homeassistant/master/logos/case.jpg" alt="The Blob" width="200">
 </h4>
 
-<p align="center"><font size="4">The Blob connects the electrical installation of the house with the computer network and the Internet. In this way it enables central control of intelligent building technology via a large number of operating devices - regardless of location. In addition, numerous other technologies such as door intercoms, cameras and audio systems as well as third-party systems for the sanitary, kitchen and entertainment areas can be seamlessly integrated into the building control system.<br></br>The Blob is designed to provide numerous advantages such as the benefits of mobile technology control, as well as the full experience with maximum convenience, security and energy efficiency. At the same time, the sexy Home Assistant interface makes the control of intelligent technology a pleasure by allowing complex systems to be controlled easily - with just one finger.</p>
+<p align="center"><font size="4">The Blob connects the electrical installation of the house with the computer network and the Internet. In this way, it enables central control of intelligent building technology via a large number of operating devices - regardless of location. In addition, numerous other technologies such as door intercoms, cameras and audio systems as well as third-party systems for the sanitary, kitchen and entertainment areas can be seamlessly integrated into the building control system.<br></br>The Blob is designed to provide numerous advantages such as the benefits of mobile technology control, as well as the full experience with maximum convenience, security and energy efficiency. At the same time, the sexy Home Assistant interface makes the control of intelligent technology a pleasure by allowing complex systems to be controlled easily - with just one finger.</p>
 
 
 
@@ -33,7 +33,7 @@ As a home server, the Blob <br>is the on-board computer for the intelligent buil
 
 <!-- HARDWARE -->
 ## Hardware
-My priority when selecting the hardware was a power-saving system. Usually a combination of a small motherboard with a relatively weak but power saving processor still outperforms the usual ready to use NAS devices. 
+My priority when selecting the hardware was a power-saving system. Usually, a combination of a small motherboard with a relatively weak but power-saving processor still outperforms the usual ready to use NAS devices. 
 
 Look to the sexy Inter-Tech X-608 Infinity Mirror RGB PC Case, with a "Black Hole" on the front and awesome RGB lighting effects. [See it in the Dark](https://www.youtube.com/watch?v=olyw9uxEDu8).
 
@@ -130,9 +130,9 @@ I love NodeRed and use it for virtually all of my automations.  Node-Red is the 
 
 #### More coming soon! See examples...
 
-If everyone leaves the house, all lights off, garage checks and closes itself if needed, same for the front door lock, blinds close, and alarm arms.
+If everyone leaves the house, all lights off, garage checks and closes itself if needed, same for the front door lock, blinds close and alarm arms.
 
-When front door motion is triggered turn on the porch light and front door light.
+When the front door motion is triggered, turn on the porch light and the front door light.
 
 When a pet or person is detected outside the front-door camera we get a Notification alert to my phone
 
@@ -186,17 +186,18 @@ Alexa reminds for sleep time. Prayer time. Dinner time. Homework time.
 
 <!-- TODO-LIST -->
 ## To-Do-List
-
-Control garage and Apple TV with RM Link
-
-Better allocation of lights and control with Hue Dimmer Switches
-
-Automation of the shower. When humidity is high, the window is opened and vice versa. Scenes for shower.
-
-In the corridor area a tablet in which the Home Assistant is displayed.
-
-Alarm system is set autonomously.
-
-A charger is invisibly installed in the bedroom chest of drawers.
-
-More coming soon!
+<ul>
+  <li>Control garage and Apple TV with RM Link</li>
+<br>
+<li>Better allocation of lights and control with Hue Dimmer Switches</li>
+<br>
+<li>Automation of the shower. When humidity is high, the window is opened and vice versa. Scenes for shower.</li>
+<br>
+<li>In the corridor area a tablet in which the Home Assistant is displayed.</li>
+<br>
+<li>Alarm system is set autonomously.</li>
+<br>
+<li>A charger is invisibly installed in the bedroom chest of drawers.</li><br>
+</ul>
+<h3>
+More coming soon!</h3>
